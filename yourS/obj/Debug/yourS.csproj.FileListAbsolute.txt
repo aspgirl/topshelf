@@ -1,0 +1,6 @@
+c:\users\aspgirl\documents\visual studio 2015\Projects\yourS\yourS\bin\Debug\yourS.exe.config
+c:\users\aspgirl\documents\visual studio 2015\Projects\yourS\yourS\bin\Debug\yourS.exe
+c:\users\aspgirl\documents\visual studio 2015\Projects\yourS\yourS\bin\Debug\yourS.pdb
+c:\users\aspgirl\documents\visual studio 2015\Projects\yourS\yourS\bin\Debug\Topshelf.dll
+c:\users\aspgirl\documents\visual studio 2015\Projects\yourS\yourS\obj\Debug\yourS.exe
+c:\users\aspgirl\documents\visual studio 2015\Projects\yourS\yourS\obj\Debug\yourS.pdb
